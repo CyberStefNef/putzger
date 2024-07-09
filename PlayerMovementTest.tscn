@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=3 uid="uid://c0jwlwh21xjow"]
+[gd_scene load_steps=5 format=3 uid="uid://d3iebfwaqcumc"]
 
 [ext_resource type="Texture2D" uid="uid://4beph6r2e1fd" path="res://fantasyhextiles_v3_borderless.png" id="1_lymbg"]
 [ext_resource type="Script" path="res://TileMapMovement.cs" id="2_ry280"]

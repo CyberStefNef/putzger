@@ -1,4 +1,4 @@
-[gd_scene load_steps=35 format=3 uid="uid://bbx6lbyvg68qj"]
+[gd_scene load_steps=35 format=3 uid="uid://dk68npe51p70u"]
 
 [ext_resource type="Texture2D" uid="uid://cvrn4nhpf3g7s" path="res://Characters/Soldier/Soldier-Attack01.png" id="1_hj233"]
 [ext_resource type="Texture2D" uid="uid://7otdb8cd3gnd" path="res://Characters/Soldier/Soldier-Death.png" id="2_5m47n"]

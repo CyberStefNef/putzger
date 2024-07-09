@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="Putzger"
-run/main_scene="res://PlayerMovementTest.tscn"
-config/features=PackedStringArray("4.2", "Forward Plus")
+run/main_scene="res://Main.tscn"
+config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
